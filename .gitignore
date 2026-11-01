@@ -1,0 +1,19 @@
+# Triage data dumps and archives
+DFIR_TRIAGE_*/
+*.tar.gz
+*.zip
+*.7z
+*.raw
+*.lime
+*.dmp
+*.vmem
+
+# Log files and manifests
+*.log
+manifest.sha256
+
+# Temporary system and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
